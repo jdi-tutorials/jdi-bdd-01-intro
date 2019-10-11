@@ -1,0 +1,76 @@
+23:23:04 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+23:23:04 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+23:23:05 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+23:23:05 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+23:23:05 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:23:05 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:23:09 [main] INFO  JDI - Page: WebPage
+23:23:09 [main] INFO  JDI - Page: WebPage
+23:23:09 [main] INFO  JDI - Set timeout 30 seconds
+23:23:09 [main] INFO  JDI - Set timeout 30 seconds
+23:23:09 [main] INFO  JDI - Check that page url(data:,) contains '/'
+23:23:09 [main] INFO  JDI - Check that page url(data:,) contains '/'
+23:23:11 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+23:23:11 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+23:23:11 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+23:23:11 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+23:23:12 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+23:23:12 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+23:23:13 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+23:23:13 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+23:23:13 [main] STEP  JDI - >>> User Name ()
+23:23:13 [main] STEP  JDI - >>> User Name ()
+23:23:13 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+23:23:13 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+23:23:13 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+23:23:13 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+23:23:14 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+23:23:14 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+23:23:14 [main] STEP  JDI - Submit 'Contact Form' with Description:JDI - awesome UI automation tool,Position:ChiefQA,Passport Number:654321,Religion:Other,Passport Seria:1234,Gender:Female,Last Name:Iovlev,Name:Roman (Contact Form)
+23:23:14 [main] STEP  JDI - Submit 'Contact Form' with Description:JDI - awesome UI automation tool,Position:ChiefQA,Passport Number:654321,Religion:Other,Passport Seria:1234,Gender:Female,Last Name:Iovlev,Name:Roman (Contact Form)
+23:28:50 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+23:28:50 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+23:28:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+23:28:51 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+23:28:51 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:28:51 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:28:56 [main] INFO  JDI - Page: WebPage
+23:28:56 [main] INFO  JDI - Page: WebPage
+23:28:56 [main] INFO  JDI - Set timeout 30 seconds
+23:28:56 [main] INFO  JDI - Set timeout 30 seconds
+23:28:56 [main] INFO  JDI - Check that page url(data:,) contains '/'
+23:28:56 [main] INFO  JDI - Check that page url(data:,) contains '/'
+23:28:57 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+23:28:57 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+23:28:57 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+23:28:57 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+23:28:58 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+23:28:58 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+23:28:58 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+23:28:58 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+23:28:59 [main] STEP  JDI - >>> User Name ()
+23:28:59 [main] STEP  JDI - >>> User Name ()
+23:28:59 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+23:28:59 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+23:28:59 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+23:28:59 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+23:29:00 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+23:29:00 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+23:29:00 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+23:29:00 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+23:29:00 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+23:29:00 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+23:29:00 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+23:29:00 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+23:29:00 [main] STEP  JDI - Set 'Other' in 'Religion' (Religion)
+23:29:00 [main] STEP  JDI - Set 'Other' in 'Religion' (Religion)
+23:29:00 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+23:29:00 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+23:29:00 [main] STEP  JDI - Set 'Female' in 'Gender' (Gender)
+23:29:00 [main] STEP  JDI - Set 'Female' in 'Gender' (Gender)
+23:29:00 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+23:29:00 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+23:29:00 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+23:29:00 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+23:29:00 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+23:29:00 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')

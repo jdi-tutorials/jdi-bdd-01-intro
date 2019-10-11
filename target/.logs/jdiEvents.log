@@ -1,0 +1,40 @@
+23:40:05 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:40:05 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:40:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+23:40:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+23:40:06 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:40:06 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:40:09 [main] INFO  JDI - Page: WebPage
+23:40:09 [main] INFO  JDI - Page: WebPage
+23:40:09 [main] INFO  JDI - Set timeout 30 seconds
+23:40:09 [main] INFO  JDI - Set timeout 30 seconds
+23:41:04 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:41:04 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:41:05 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+23:41:05 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+23:41:05 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:41:05 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:41:09 [main] INFO  JDI - Page: WebPage
+23:41:09 [main] INFO  JDI - Page: WebPage
+23:41:09 [main] INFO  JDI - Set timeout 30 seconds
+23:41:09 [main] INFO  JDI - Set timeout 30 seconds
+23:42:20 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:42:20 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+23:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+23:42:25 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:42:25 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:42:39 [main] INFO  JDI - Page: WebPage
+23:42:39 [main] INFO  JDI - Page: WebPage
+23:42:39 [main] INFO  JDI - Set timeout 30 seconds
+23:42:39 [main] INFO  JDI - Set timeout 30 seconds
+23:43:33 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:43:33 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+23:43:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+23:43:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+23:43:34 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:43:34 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+23:43:40 [main] INFO  JDI - Page: WebPage
+23:43:40 [main] INFO  JDI - Page: WebPage
+23:43:40 [main] INFO  JDI - Set timeout 30 seconds
+23:43:40 [main] INFO  JDI - Set timeout 30 seconds
