@@ -1,40 +1,250 @@
-23:40:05 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:40:05 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:40:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
-23:40:06 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
-23:40:06 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:40:06 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:40:09 [main] INFO  JDI - Page: WebPage
-23:40:09 [main] INFO  JDI - Page: WebPage
-23:40:09 [main] INFO  JDI - Set timeout 30 seconds
-23:40:09 [main] INFO  JDI - Set timeout 30 seconds
-23:41:04 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:41:04 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:41:05 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
-23:41:05 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
-23:41:05 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:41:05 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:41:09 [main] INFO  JDI - Page: WebPage
-23:41:09 [main] INFO  JDI - Page: WebPage
-23:41:09 [main] INFO  JDI - Set timeout 30 seconds
-23:41:09 [main] INFO  JDI - Set timeout 30 seconds
-23:42:20 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:42:20 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
-23:42:25 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
-23:42:25 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:42:25 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:42:39 [main] INFO  JDI - Page: WebPage
-23:42:39 [main] INFO  JDI - Page: WebPage
-23:42:39 [main] INFO  JDI - Set timeout 30 seconds
-23:42:39 [main] INFO  JDI - Set timeout 30 seconds
-23:43:33 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:43:33 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
-23:43:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
-23:43:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
-23:43:34 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:43:34 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
-23:43:40 [main] INFO  JDI - Page: WebPage
-23:43:40 [main] INFO  JDI - Page: WebPage
-23:43:40 [main] INFO  JDI - Set timeout 30 seconds
-23:43:40 [main] INFO  JDI - Set timeout 30 seconds
+00:31:00 [main] STEP  JDI - Set 'Iovlev' in 'lastName' (lastName)
+00:31:00 [main] STEP  JDI - Set 'Iovlev' in 'lastName' (lastName)
+00:34:31 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:34:31 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:34:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+00:34:32 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+00:34:32 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:34:32 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:34:37 [main] INFO  JDI - Page: WebPage
+00:34:37 [main] INFO  JDI - Page: WebPage
+00:34:37 [main] INFO  JDI - Set timeout 30 seconds
+00:34:37 [main] INFO  JDI - Set timeout 30 seconds
+00:34:39 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:34:39 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:34:40 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:34:40 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:34:41 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:34:41 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:34:41 [main] STEP  JDI - >>> User Name ()
+00:34:41 [main] STEP  JDI - >>> User Name ()
+00:34:41 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:34:41 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:34:42 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:34:42 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:34:42 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:34:42 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:34:42 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:34:42 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:34:42 [main] STEP  JDI - Set '654321' in 'PassportNumber' (PassportNumber)
+00:34:42 [main] STEP  JDI - Set '654321' in 'PassportNumber' (PassportNumber)
+00:35:12 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:35:12 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:35:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+00:35:13 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+00:35:13 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:35:13 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:35:18 [main] INFO  JDI - Page: WebPage
+00:35:18 [main] INFO  JDI - Page: WebPage
+00:35:18 [main] INFO  JDI - Set timeout 30 seconds
+00:35:18 [main] INFO  JDI - Set timeout 30 seconds
+00:35:20 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:35:20 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:35:21 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:35:21 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:35:21 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:35:21 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:35:22 [main] STEP  JDI - >>> User Name ()
+00:35:22 [main] STEP  JDI - >>> User Name ()
+00:35:22 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:35:22 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:35:23 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:35:23 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:35:23 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:35:23 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:35:23 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:35:23 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:35:23 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:35:23 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:35:23 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:35:23 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:35:23 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:35:23 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:35:23 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:35:23 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:35:34 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:35:34 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:35:34 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:34 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid a14eabe8-a0e3-48bf-8e5c-84b7e2d3c399 not found
+00:35:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+00:35:35 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+00:35:35 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:35:35 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:35:39 [main] INFO  JDI - Page: WebPage
+00:35:39 [main] INFO  JDI - Page: WebPage
+00:35:39 [main] INFO  JDI - Set timeout 30 seconds
+00:35:39 [main] INFO  JDI - Set timeout 30 seconds
+00:35:40 [main] STEP  JDI - Click on 'css='#user-icon'' (css='#user-icon')
+00:35:40 [main] STEP  JDI - Click on 'css='#user-icon'' (css='#user-icon')
+00:35:40 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:40 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid 1b636a51-b3fb-4f69-a837-af9921c7e0ab not found
+00:35:40 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:35:40 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:35:40 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:40 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid abee095b-c66b-46a9-9921-668bcd20a0db not found
+00:35:41 [main] STEP  JDI - Assert that 'css='#user-name'' is displayed (css='#user-name')
+00:35:41 [main] STEP  JDI - Assert that 'css='#user-name'' is displayed (css='#user-name')
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid d826d7ff-997d-422a-8ed0-3837100c5a92 not found
+00:35:41 [main] STEP  JDI - >>>  (css='#user-name')
+00:35:41 [main] STEP  JDI - >>>  (css='#user-name')
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid df9457b2-d30e-4495-9d74-107a5af32fdb not found
+00:35:41 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:35:41 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid 1c9852b4-dd09-466e-95b2-aedaf009e594 not found
+00:35:41 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:35:41 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:41 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid db014f8d-8833-414c-8c6a-8ac24ec942b8 not found
+00:35:42 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:35:42 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid b5bd9ca9-1570-47cb-9d83-f29c3f45ba3d not found
+00:35:42 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:35:42 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid b15b2dd7-e7bf-427c-be65-ab644d16bb3a not found
+00:35:42 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:35:42 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid b183f50b-1950-41f4-bafd-bd93cddd8ce0 not found
+00:35:42 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:35:42 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid 8d4be479-1302-4501-bc75-ad79875028cd not found
+00:35:42 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:35:42 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid 4434442c-f535-4058-8eac-9db6155b1a35 not found
+00:35:42 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:35:42 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not start step: no test case running
+00:35:42 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop step: step with uuid ee87a3ef-8fe8-4eec-8d16-e4dc459e148a not found
+00:36:40 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+00:36:40 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+00:36:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+00:36:40 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+00:36:40 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:36:40 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:36:46 [main] INFO  JDI - Page: WebPage
+00:36:46 [main] INFO  JDI - Page: WebPage
+00:36:46 [main] INFO  JDI - Set timeout 30 seconds
+00:36:46 [main] INFO  JDI - Set timeout 30 seconds
+00:36:46 [main] INFO  JDI - Check that page url(data:,) contains '/'
+00:36:46 [main] INFO  JDI - Check that page url(data:,) contains '/'
+00:36:47 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+00:36:47 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+00:36:47 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:36:47 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:36:48 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+00:36:48 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+00:36:48 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:36:48 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:36:48 [main] STEP  JDI - >>> User Name ()
+00:36:48 [main] STEP  JDI - >>> User Name ()
+00:36:48 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+00:36:48 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+00:36:48 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+00:36:48 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+00:36:49 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+00:36:49 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+00:36:49 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:36:49 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:36:49 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:36:49 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:36:49 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:36:49 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:36:49 [main] STEP  JDI - Set 'Other' in 'Religion' (Religion)
+00:36:49 [main] STEP  JDI - Set 'Other' in 'Religion' (Religion)
+00:36:50 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:36:50 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:36:50 [main] STEP  JDI - Set 'Female' in 'Gender' (Gender)
+00:36:50 [main] STEP  JDI - Set 'Female' in 'Gender' (Gender)
+00:36:50 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:36:50 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:36:50 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:36:50 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:36:50 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:36:50 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:38:19 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+00:38:19 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/) should be opened (WebPage)
+00:38:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+00:38:19 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+00:38:19 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:38:19 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:38:24 [main] INFO  JDI - Page: WebPage
+00:38:24 [main] INFO  JDI - Page: WebPage
+00:38:24 [main] INFO  JDI - Set timeout 30 seconds
+00:38:24 [main] INFO  JDI - Set timeout 30 seconds
+00:38:24 [main] INFO  JDI - Check that page url(data:,) contains '/'
+00:38:24 [main] INFO  JDI - Check that page url(data:,) contains '/'
+00:38:26 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+00:38:26 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/'
+00:38:26 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:38:26 [main] STEP  JDI - Click on 'User Icon' (User Icon)
+00:38:28 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+00:38:28 [main] STEP  JDI - Submit 'Login form' with Name:Roman,Password:Jdi1234 (Login form)
+00:38:29 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:38:29 [main] STEP  JDI - Assert that 'User Name' is displayed (User Name)
+00:38:29 [main] STEP  JDI - >>> User Name ()
+00:38:29 [main] STEP  JDI - >>> User Name ()
+00:38:29 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+00:38:29 [main] STEP  JDI - ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) should be opened (WebPage)
+00:38:29 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+00:38:29 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/index.html) contains '/contacts.html'
+00:38:29 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+00:38:29 [main] INFO  JDI - Check that page url(https://jdi-testing.github.io/jdi-light/contacts.html) contains '/contacts.html'
+00:38:29 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:38:29 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:38:29 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:38:29 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:38:29 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:38:29 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:38:29 [main] STEP  JDI - Set 'Other' in 'Religion' (Religion)
+00:38:29 [main] STEP  JDI - Set 'Other' in 'Religion' (Religion)
+00:38:30 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:38:30 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:38:30 [main] STEP  JDI - Set 'Female' in 'Gender' (Gender)
+00:38:30 [main] STEP  JDI - Set 'Female' in 'Gender' (Gender)
+00:38:30 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:38:30 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:38:30 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:38:30 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:38:30 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:38:30 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:38:57 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:38:57 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/) (WebPage)
+00:38:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 77.0.3865.40 (since Google Chrome 77 is installed in your machine)
+00:38:58 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\roman_iovlev\.m2\repository\webdriver\chromedriver\win32\77.0.3865.40\chromedriver.exe
+00:38:58 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:38:58 [main] INFO  JDI - Download driver: 'CHROME X32' successfully
+00:39:03 [main] INFO  JDI - Page: WebPage
+00:39:03 [main] INFO  JDI - Page: WebPage
+00:39:03 [main] INFO  JDI - Set timeout 30 seconds
+00:39:03 [main] INFO  JDI - Set timeout 30 seconds
+00:39:04 [main] STEP  JDI - Click on 'css='#user-icon'' (css='#user-icon')
+00:39:04 [main] STEP  JDI - Click on 'css='#user-icon'' (css='#user-icon')
+00:39:05 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:39:05 [main] STEP  JDI - Submit 'Login Form' with name:Roman,password:Jdi1234 (Login Form)
+00:39:06 [main] STEP  JDI - Assert that 'css='#user-name'' is displayed (css='#user-name')
+00:39:06 [main] STEP  JDI - Assert that 'css='#user-name'' is displayed (css='#user-name')
+00:39:06 [main] STEP  JDI - >>>  (css='#user-name')
+00:39:06 [main] STEP  JDI - >>>  (css='#user-name')
+00:39:06 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:39:06 [main] STEP  JDI - Open ''(url=https://jdi-testing.github.io/jdi-light/contacts.html) (WebPage)
+00:39:06 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:39:06 [main] STEP  JDI - Set 'Roman' in 'Name' (Name)
+00:39:06 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:39:06 [main] STEP  JDI - Set 'Iovlev' in 'Last Name' (Last Name)
+00:39:06 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:39:06 [main] STEP  JDI - Set 'ChiefQA' in 'Position' (Position)
+00:39:06 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:39:06 [main] STEP  JDI - Set '654321' in 'Passport Number' (Passport Number)
+00:39:06 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:39:06 [main] STEP  JDI - Set '1234' in 'Passport Seria' (Passport Seria)
+00:39:06 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:39:06 [main] STEP  JDI - Set 'JDI - awesome UI automation tool' in 'Description' (Description)
+00:39:06 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')
+00:39:06 [main] STEP  JDI - Click on 'css='#contact-form [type=submit]'' (css='#contact-form [type=submit]')

@@ -3,21 +3,17 @@ Feature: Login and submit contact form
 
   Scenario: fill Contact Form from json
     When I open "https://jdi-testing.github.io/jdi-light/"
-    When I click on "User Icon"
-    And I login as "Roman"
+    When I click on "#user-icon"
     And I submit form "Login Form" with data:
       |name     | Roman   |
-      |password | JDI1234 |
-    Then the "User Name" is displayed
+      |password | Jdi1234 |
+    Then the "#user-name" is displayed
     When I open "https://jdi-testing.github.io/jdi-light/contacts.html"
-    When I fill form "Contact Form" with data:
-      |name|Roman|
-      |lastName|Iovlev|
-      |position|ChiefQA|
-      |passportNumber|654321|
-      |passportSeria|1234|
-      |description|JDI - awesome UI automation tool|
-      |acceptConditions|true|
-      |gender|Female|
-      |religion|Other|
+    And I fill form "Contact Form" with data:
+      | Name              | Roman   |
+      | Last Name         | Iovlev  |
+      | Position          | ChiefQA |
+      | Passport Number   | 654321  |
+      | Passport Seria    | 1234    |
+      | Description       | JDI - awesome UI automation tool|
     And click on "#contact-form [type=submit]"

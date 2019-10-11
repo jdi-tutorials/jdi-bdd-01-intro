@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="jdi-light-bdd-no-po-tests" />
+        <module name="jdi-bdd-01-intro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="jdi-light-bdd-no-po-tests" target="1.8" />
+      <module name="jdi-bdd-01-intro" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

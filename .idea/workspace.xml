@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/composite/Form.java" description="List&lt;Field&gt; allFields = allFields();" line="68" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="eec2e6dc-73cb-4c6a-94fc-25844cb16b1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" afterDir="false" />
+    <list default="true" id="37c19408-6088-4b49-9e8d-81fbd0c4d849" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/068cbc7b-49af-44c5-b48c-1004ae1f09e2-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0fdcc46c-7f07-4189-8bfe-0a814d0b4db4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/28fe468d-425b-4f5f-b64a-68fb60f591f9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/312e9777-8c96-49d8-8c82-8583561db60c-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/3308ae6a-6d6e-4889-9c26-f316cf1bbe68-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/383702ff-f86d-4b57-b4fb-a9b999163ebf-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/44fc79e4-5432-4f3e-b6d5-89e8af197223-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/4d78fcda-fbc4-4c27-a002-84b73b3e0cae-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/66f7fcb1-f77e-4f85-af33-eaaa06063a8f-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6a9b6a38-d147-44f2-a2fe-019d942fb1f2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6b5bb3ed-e350-465d-8e75-b0718e7d24bc-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/72408c19-b546-4880-8dae-6d56b25d3aca-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7fb44cd4-34e5-4a7b-910a-9d6fee317a58-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/96125059-0e5c-4f30-a8cd-fef608f05e37-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9886c7c8-a6c4-4c9f-8cb9-3b11f75888ae-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9e16cea0-4902-4390-b1b1-4ac02c2d3969-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/aeed35bb-496d-4e68-a124-e757c10f0030-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b44e815f-d1ac-4ba3-8d6a-5d0d4b8ef17c-attachment.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b5eb07a4-d67b-43a6-8080-8fc35ce3a27c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/b71a4782-bd28-444f-ab43-3a4550ec62e5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/bbd824fe-450e-4662-ac11-d8f93118fb18-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d391eaf7-632a-4b83-9a5a-6990819ed9f6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d9814b6d-4a6d-4a18-b4bf-8858324a7cc6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f64268c8-90f5-412e-a86e-50fd64e162dd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdi-light-bdd-no-po-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucmberTests/test/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.logs/app-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/.logs/app-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.logs/jdiEvents.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/.logs/jdiEvents.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.logs/jdiEvents_2019-10-11__23-29_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.logs/jdiEvents_2019-10-11__23-39_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/LoginAndSubmitContacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/LoginAndSubmitContacts.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/features/SimpleBddExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/SimpleBddExample.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/jdi-light-bdd-no-po-tests.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucmberTests/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cucmberTests/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cucmberTests/steps/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/LoginAndSubmitContacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/LoginAndSubmitContacts.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/SimpleBddExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/SimpleBddExample.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,25 +61,35 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="176">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/json/page/objects/contact page.json">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman Contacts.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="47" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="47" />
+            <state relative-caret-position="136">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -43,84 +97,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/composite/WebPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-              <folding>
-                <element signature="e#2617#2618#0" expanded="true" />
-                <element signature="e#2742#2743#0" expanded="true" />
-                <element signature="e#2781#2782#0" expanded="true" />
-                <element signature="e#4707#4708#0" expanded="true" />
-                <element signature="e#4753#4754#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/init/entities/collection/EntitiesCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="e#1959#1960#0" expanded="true" />
-                <element signature="e#2031#2032#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.9.1/aspectjrt-1.9.1-sources.jar!/org/aspectj/runtime/reflect/JoinPointImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="148" selection-start-line="148" selection-end-line="148" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/actions/ActionProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman Contacts.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            <state relative-caret-position="110">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>logged in with name</find>
-      <find>Contact Form</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,21 +111,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/cucmberTests/steps/User.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/json/page/objects/html5page.json" />
-        <option value="$PROJECT_DIR$/src/test/resources/json/page/objects/pages.json" />
         <option value="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -155,103 +127,16 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="JDI BDD no Page Objects Tests" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/jdi-light-bdd-no-po-tests.iml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_0_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_2_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_testng_1_2_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_7_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_opentracing_opentracing_api_0_33_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_cucumber_jvm_2_12_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_12_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_model_2_12_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_lingala_zip4j_zip4j_2_2_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_1_2_api_2_11_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_20.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_40.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_40.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jooq_joor_java_8_0_9_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edgehtml_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_3.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_epam_jdi_jdi_bdd_1_0_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_epam_jdi_jdi_light_1_1_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_epam_jdi_jdi_light_html_1_1_4.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_epam_jdi_tools_jdi_light_saber_2_0_59.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2_rc1.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-12" />
-    <option name="width" value="1932" />
+    <option name="y" value="-12" />
+    <option name="width" value="1935" />
     <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -266,53 +151,44 @@
         <subPane>
           <expand>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cucmberTests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cucmberTests" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -320,7 +196,7 @@
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -328,16 +204,7 @@
               <item name="json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-              <item name="objects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
@@ -346,47 +213,55 @@
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi.tools:jdi-light-saber:2.0.59" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi.tools:jdi-light-saber:2.0.59" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-saber-2.0.59.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi.tools:jdi-light-saber:2.0.59" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-saber-2.0.59.jar" type="462c0819:PsiDirectoryNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.epam.jdi.tools:jdi-light-saber:2.0.59" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdi-light-saber-2.0.59.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="func" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-bdd:1.0.0" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-bdd:1.0.0" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-bdd-1.0.0.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-bdd:1.0.0" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-bdd-1.0.0.jar" type="462c0819:PsiDirectoryNode" />
               <item name="bdd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-bdd:1.0.0" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-bdd-1.0.0.jar" type="462c0819:PsiDirectoryNode" />
@@ -394,33 +269,25 @@
               <item name="stepdefs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="light" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
               <item name="light" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
@@ -428,7 +295,25 @@
               <item name="elements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="light" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="light" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
@@ -437,7 +322,7 @@
               <item name="composite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
@@ -446,7 +331,7 @@
               <item name="init" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
               <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
@@ -456,39 +341,12 @@
               <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.aspectj:aspectjrt:1.9.1" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.aspectj:aspectjrt:1.9.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="aspectjrt-1.9.1.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.aspectj:aspectjrt:1.9.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="aspectjrt-1.9.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.aspectj:aspectjrt:1.9.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="aspectjrt-1.9.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jdi-light-bdd-no-po-tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.aspectj:aspectjrt:1.9.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="aspectjrt-1.9.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: com.epam.jdi:jdi-light:1.1.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdi-light-1.1.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="light" type="462c0819:PsiDirectoryNode" />
+              <item name="settings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -497,12 +355,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Work\EPAM\Presentations\2019\ComaQA October Ru\jdi-bdd-01-intro\src\test\resources\features" />
-    </key>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -522,7 +375,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" />
       <option name="GLUE" value="com.epam.jdi.bdd" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="jdi-light-bdd-no-po-tests" />
+      <module name="jdi-bdd-01-intro" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
       <option name="SUGGESTED_NAME" value="Feature: LoginAndSubmitContacts" />
       <extension name="coverage">
@@ -540,7 +393,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" />
       <option name="GLUE" value="com.epam.jdi.bdd" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="jdi-light-bdd-no-po-tests" />
+      <module name="jdi-bdd-01-intro" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
       <option name="SUGGESTED_NAME" value="Feature: SimpleBddExample" />
       <extension name="coverage">
@@ -554,7 +407,7 @@
       </method>
     </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="jdi-light-bdd-no-po-tests" />
+      <module name="jdi-bdd-01-intro" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucmberTests.*" />
@@ -571,8 +424,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Cucumber java.Feature: SimpleBddExample" />
         <item itemvalue="Cucumber java.Feature: LoginAndSubmitContacts" />
+        <item itemvalue="Cucumber java.Feature: SimpleBddExample" />
       </list>
     </recent_temporary>
   </component>
@@ -581,87 +434,82 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eec2e6dc-73cb-4c6a-94fc-25844cb16b1a" name="Default Changelist" comment="" />
-      <created>1570813107690</created>
+      <changelist id="37c19408-6088-4b49-9e8d-81fbd0c4d849" name="Default Changelist" comment="" />
+      <created>1570827133886</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570813107690</updated>
+      <updated>1570827133886</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Runner - 2019.10.11 at 23h 29m 03s.xml">
+    <history-entry file="Runner - 2019.10.12 at 00h 11m 58s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 30m 30s.xml">
+    <history-entry file="Runner - 2019.10.12 at 00h 20m 40s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 31m 54s.xml">
+    <history-entry file="Runner - 2019.10.12 at 00h 34m 16s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Feature__SimpleBddExample - 2019.10.11 at 23h 37m 47s.xml">
+    <history-entry file="Runner - 2019.10.12 at 00h 34m 55s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2019.10.12 at 00h 35m 26s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__SimpleBddExample - 2019.10.12 at 00h 35m 43s.xml">
       <configuration name="Feature: SimpleBddExample" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 38m 47s.xml">
+    <history-entry file="Feature__LoginAndSubmitContacts - 2019.10.12 at 00h 35m 55s.xml">
+      <configuration name="Feature: LoginAndSubmitContacts" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__LoginAndSubmitContacts - 2019.10.12 at 00h 36m 13s.xml">
+      <configuration name="Feature: LoginAndSubmitContacts" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Runner - 2019.10.12 at 00h 36m 53s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 39m 16s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 40m 14s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 41m 12s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 43m 09s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.11 at 23h 46m 36s.xml">
+    <history-entry file="Runner - 2019.10.12 at 00h 38m 32s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1288" height="696" extended-state="0" />
+    <frame x="-8" y="-8" width="1290" height="696" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.262215" />
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32269505" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39893618" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36347517" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37588653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Statistic" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Maven" weight="0.16260162" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Maven" order="3" visible="true" weight="0.18648209" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/JDISteps.java</url>
-          <line>60</line>
+          <url>jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.59/jdi-light-saber-2.0.59-sources.jar!/com/epam/jdi/tools/StringUtils.java</url>
+          <line>101</line>
           <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/composite/WebPage.java</url>
-          <line>99</line>
-          <properties />
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -673,227 +521,177 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>setUrl(url, url, CONTAINS)</expression-string>
+        <expression-string>el.getName()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getCorrectPath()</expression-string>
+        <expression-string>element.getLocator()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>readProperties()</expression-string>
+        <expression-string>element</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>properties != null</expression-string>
+        <expression-string>getMapFromTable(data)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>loadProperties()</expression-string>
+        <expression-string>getProperty(&quot;json.page.objects&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getProperty(propertyName)</expression-string>
+        <expression-string>readElementsFromJson()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>(new GsonBuilder()).create()</expression-string>
+        <expression-string>ELEMENTS.has(name)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>getMapFromJson(&quot;pages&quot;, &quot;json.page.objects&quot;)</expression-string>
+        <expression-string>getElement(name)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>jsonPages</expression-string>
+        <expression-string>getUI(name, IClickable.class)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/steps/CustomSteps.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/JsonBasedPage.feature">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/TestsWithLocators.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/test.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/TestsWithName.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/steps/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/Form.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.59/jdi-light-saber-2.0.59-sources.jar!/com/epam/jdi/tools/PropertyReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="e#1418#1419#0" expanded="true" />
-            <element signature="e#1491#1492#0" expanded="true" />
-            <element signature="e#1682#1683#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.59/jdi-light-saber-2.0.59-sources.jar!/com/epam/jdi/tools/JsonUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/init/entities/collection/EntitiesCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
-          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/JDISteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="37" />
           <folding>
-            <element signature="e#1724#1740#0" expanded="true" />
+            <element signature="e#2173#2174#0" expanded="true" />
+            <element signature="e#2220#2221#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/stepdefs/FormSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1979#1980#0" expanded="true" />
+            <element signature="e#2029#2030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.59/jdi-light-saber-2.0.59-sources.jar!/com/epam/jdi/tools/func/JAction4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/composite/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/common/UIElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="220" column="84" lean-forward="true" selection-start-line="220" selection-start-column="84" selection-end-line="220" selection-end-column="84" />
+          <folding>
+            <element signature="e#7166#7167#0" expanded="true" />
+            <element signature="e#7232#7233#0" expanded="true" />
+            <element signature="e#18173#18174#0" expanded="true" />
+            <element signature="e#18203#18204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/base/JDIBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="253" column="40" selection-start-line="253" selection-start-column="40" selection-end-line="253" selection-end-column="40" />
+          <folding>
+            <element signature="e#6987#6988#0" expanded="true" />
+            <element signature="e#7029#7030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/tools/jdi-light-saber/2.0.59/jdi-light-saber-2.0.59-sources.jar!/com/epam/jdi/tools/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/settings/WebSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="106" column="82" lean-forward="true" selection-start-line="106" selection-start-column="82" selection-end-line="106" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/test/data/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/json/page/objects/pages.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman Contacts.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/json/page/objects/contact page.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="47" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/stepdefs/FormSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding>
-            <element signature="e#1200#1201#0" expanded="true" />
-            <element signature="e#1279#1280#0" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1617#1618#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="176">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.9.1/aspectjrt-1.9.1-sources.jar!/org/aspectj/runtime/reflect/JoinPointImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="148" selection-start-line="148" selection-end-line="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/actions/ActionProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/composite/WebPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="e#2617#2618#0" expanded="true" />
-            <element signature="e#2742#2743#0" expanded="true" />
-            <element signature="e#2781#2782#0" expanded="true" />
-            <element signature="e#4707#4708#0" expanded="true" />
-            <element signature="e#4753#4754#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-light/1.1.4/jdi-light-1.1.4-sources.jar!/com/epam/jdi/light/elements/init/entities/collection/EntitiesCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#1959#1960#0" expanded="true" />
-            <element signature="e#2031#2032#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/JDISteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="e#2156#2157#0" expanded="true" />
-            <element signature="e#2203#2204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
         </state>
       </provider>
     </entry>

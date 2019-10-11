@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jdi-light-bdd-no-po-tests.iml" filepath="$PROJECT_DIR$/jdi-light-bdd-no-po-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdi-bdd-01-intro.iml" filepath="$PROJECT_DIR$/jdi-bdd-01-intro.iml" />
     </modules>
   </component>
 </project>
