@@ -2,7 +2,7 @@
 Feature: Login and submit contact form
 
   Scenario: fill Contact Form from json
-    When I open "https://jdi-testing.github.io/jdi-light/"
+    Given I open "https://jdi-testing.github.io/jdi-light/"
     When I click on "#user-icon"
     And I submit form "Login Form" with data:
       |name     | Roman   |
@@ -15,5 +15,9 @@ Feature: Login and submit contact form
       | Position          | ChiefQA |
       | Passport Number   | 654321  |
       | Passport Seria    | 1234    |
-      | Description       | JDI - awesome UI automation tool|
+      | Description       | JDI - awesome UI automation tool |
     And click on "#contact-form [type=submit]"
+    Then the "#last-name" text equals to "Iovlev"
+    Then the "#description" text equals to "JDI - awesome UI automation tool"
+    Then the "#description" attribute "rows" equals to "4"
+    Then the "#contact-form [type=submit]" css "border-color" equals to "rgb(21, 124, 140)"

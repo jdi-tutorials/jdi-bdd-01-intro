@@ -5,49 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37c19408-6088-4b49-9e8d-81fbd0c4d849" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/068cbc7b-49af-44c5-b48c-1004ae1f09e2-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/0fdcc46c-7f07-4189-8bfe-0a814d0b4db4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/28fe468d-425b-4f5f-b64a-68fb60f591f9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/312e9777-8c96-49d8-8c82-8583561db60c-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/3308ae6a-6d6e-4889-9c26-f316cf1bbe68-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/383702ff-f86d-4b57-b4fb-a9b999163ebf-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/44fc79e4-5432-4f3e-b6d5-89e8af197223-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4d78fcda-fbc4-4c27-a002-84b73b3e0cae-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/66f7fcb1-f77e-4f85-af33-eaaa06063a8f-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6a9b6a38-d147-44f2-a2fe-019d942fb1f2-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/6b5bb3ed-e350-465d-8e75-b0718e7d24bc-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/72408c19-b546-4880-8dae-6d56b25d3aca-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7fb44cd4-34e5-4a7b-910a-9d6fee317a58-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/96125059-0e5c-4f30-a8cd-fef608f05e37-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9886c7c8-a6c4-4c9f-8cb9-3b11f75888ae-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/9e16cea0-4902-4390-b1b1-4ac02c2d3969-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/aeed35bb-496d-4e68-a124-e757c10f0030-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b44e815f-d1ac-4ba3-8d6a-5d0d4b8ef17c-attachment.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b5eb07a4-d67b-43a6-8080-8fc35ce3a27c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b71a4782-bd28-444f-ab43-3a4550ec62e5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/bbd824fe-450e-4662-ac11-d8f93118fb18-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d391eaf7-632a-4b83-9a5a-6990819ed9f6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d9814b6d-4a6d-4a18-b4bf-8858324a7cc6-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f64268c8-90f5-412e-a86e-50fd64e162dd-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdi-light-bdd-no-po-tests.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucmberTests/test/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.logs/app-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/.logs/app-info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.logs/jdiEvents.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/.logs/jdiEvents.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.logs/jdiEvents_2019-10-11__23-29_1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.logs/jdiEvents_2019-10-11__23-39_1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/LoginAndSubmitContacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/LoginAndSubmitContacts.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/SimpleBddExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/features/SimpleBddExample.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/jdi-light-bdd-no-po-tests.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cucmberTests/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cucmberTests/Runner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cucmberTests/steps/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/LoginAndSubmitContacts.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/LoginAndSubmitContacts.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/SimpleBddExample.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/SimpleBddExample.feature" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -62,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="132">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="e#721#722#0" expanded="true" />
                 <element signature="e#761#762#0" expanded="true" />
@@ -81,6 +41,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/json/page/objects/contact page.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman Contacts.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -88,17 +53,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="220">
+              <caret line="22" column="90" lean-forward="true" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+            <state relative-caret-position="290">
+              <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -111,8 +76,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature" />
         <option value="$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java" />
       </list>
     </option>
@@ -202,6 +167,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jdi-bdd-01-intro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+              <item name="objects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jdi-bdd-01-intro" type="b2602c69:ProjectViewProjectNode" />
@@ -406,6 +380,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scenario: fill Contact Form from json" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature" />
+      <option name="GLUE" value="com.epam.jdi.bdd" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="jdi-bdd-01-intro" />
+      <option name="NAME_FILTER" value="^fill Contact Form from json$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^fill Contact Form from json$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: fill Contact Form from json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="jdi-bdd-01-intro" />
       <extension name="coverage">
@@ -424,8 +417,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Cucumber java.Feature: LoginAndSubmitContacts" />
+        <item itemvalue="Cucumber java.Scenario: fill Contact Form from json" />
         <item itemvalue="Cucumber java.Feature: SimpleBddExample" />
+        <item itemvalue="Cucumber java.Feature: LoginAndSubmitContacts" />
       </list>
     </recent_temporary>
   </component>
@@ -443,34 +437,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Runner - 2019.10.12 at 00h 11m 58s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.12 at 00h 20m 40s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.12 at 00h 34m 16s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.12 at 00h 34m 55s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Runner - 2019.10.12 at 00h 35m 26s.xml">
-      <configuration name="Runner" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Feature__SimpleBddExample - 2019.10.12 at 00h 35m 43s.xml">
+    <history-entry file="Feature__SimpleBddExample - 2019.10.12 at 07h 35m 57s.xml">
       <configuration name="Feature: SimpleBddExample" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__LoginAndSubmitContacts - 2019.10.12 at 00h 35m 55s.xml">
-      <configuration name="Feature: LoginAndSubmitContacts" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__SimpleBddExample - 2019.10.12 at 07h 36m 29s.xml">
+      <configuration name="Feature: SimpleBddExample" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__LoginAndSubmitContacts - 2019.10.12 at 00h 36m 13s.xml">
-      <configuration name="Feature: LoginAndSubmitContacts" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__SimpleBddExample - 2019.10.12 at 07h 37m 16s.xml">
+      <configuration name="Feature: SimpleBddExample" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Runner - 2019.10.12 at 00h 36m 53s.xml">
+    <history-entry file="Feature__SimpleBddExample - 2019.10.12 at 07h 37m 48s.xml">
+      <configuration name="Feature: SimpleBddExample" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__fill_Contact_Form_from_json - 2019.10.12 at 07h 38m 20s.xml">
+      <configuration name="Scenario: fill Contact Form from json" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__fill_Contact_Form_from_json - 2019.10.12 at 07h 39m 28s.xml">
+      <configuration name="Scenario: fill Contact Form from json" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__fill_Contact_Form_from_json - 2019.10.12 at 07h 40m 03s.xml">
+      <configuration name="Scenario: fill Contact Form from json" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Runner - 2019.10.12 at 07h 40m 53s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Runner - 2019.10.12 at 00h 38m 32s.xml">
+    <history-entry file="Runner - 2019.10.12 at 07h 45m 42s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2019.10.12 at 07h 46m 30s.xml">
       <configuration name="Runner" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -581,17 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/JDISteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="37" />
-          <folding>
-            <element signature="e#2173#2174#0" expanded="true" />
-            <element signature="e#2220#2221#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/stepdefs/FormSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
@@ -657,20 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/test/data/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -678,20 +647,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman Contacts.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/epam/jdi/jdi-bdd/1.0.0/jdi-bdd-1.0.0-sources.jar!/com/epam/jdi/bdd/JDISteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <element signature="e#2173#2174#0" expanded="true" />
+            <element signature="e#2220#2221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/json/test/data/Roman.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/json/page/objects/contact page.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/SimpleBddExample.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" column="90" lean-forward="true" selection-start-line="22" selection-start-column="73" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cucmberTests/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="132">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="e#721#722#0" expanded="true" />
             <element signature="e#761#762#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/LoginAndSubmitContacts.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
         </state>
       </provider>
     </entry>

@@ -14,7 +14,8 @@ import static com.epam.jdi.light.settings.WebSettings.init;
 @CucumberOptions(
     features = "classpath:features"
     , glue = {"com.epam.jdi.bdd", "cucmberTests"}
-    , tags = {"@simple"}
+    //, tags = {"@simple"}
+    , tags = {"@smart"}
 )
 public class Runner extends AbstractTestNGCucumberTests {
     @BeforeClass
